@@ -23,6 +23,20 @@
 
 # NGINX
 ## Contact
+### Robert Madej Petersen
+
+    SDR - EMEA
+    Office: +46844685058
+    robert.andersen@nginx.com
+
+### Leif Beaton
+
+    leif.beaton@nginx.com
+
+### Sacoro Fraenk
+
+    sacoro.fraenk@nginx.com
+
 ## References
 ## Documentation
 
