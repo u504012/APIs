@@ -18,7 +18,7 @@ If you have any updates, suggestions, or additions that you would like to contri
 * [API Guidelines](#api-guidelines)
   * [General](#general)
   * [Meta Information](#meta-information)
-  * [Security. (TODO)](#security.-(todo))
+  * [Security](#security)
   * [Compatibility](#compatibility)
   * [Deprecation](#deprecation)
   * [JSON Guidelines](#json-guidelines)
@@ -204,7 +204,7 @@ Note: Exactly one audience per API specification is allowed. For this reason a s
 #### MUST: Provide API Identifiers
 Each API should be identified by an explicit, owner assigned, globally unique, and immutable API identifier. APIs evolve and every API aspect may change, except the API identifier. Based on the API identifier, we can track the API life cycle and manage the history and evolution of an API as a sequence of API specifications. 
 
-### Security. (TODO)
+### Security
 We should at least be protected against the “<a href="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 Most Critical Web Application Security Risks</a>”, …more is always better.
 
 ### Compatibility
