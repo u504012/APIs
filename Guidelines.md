@@ -10,7 +10,7 @@ If you have any updates, suggestions, or additions that you would like to contri
 
 ### Contributors
 
-Christian Verhaegen (bpost) (<u504012@bpost.be>)
+Christian Verhaegen (<christian.verhaegen@bpost.be>)
 
 ## Table of content
 
