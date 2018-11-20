@@ -14,7 +14,7 @@ If you have any updates, suggestions, or additions that you would like to contri
 
 ## Table of content
 
-[Service Design Principles] (#service-design-principles)
+[Service Design Principles](#service-design-principles)
 
 ## Service Design Principles
 
