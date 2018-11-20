@@ -17,7 +17,21 @@ If you have any updates, suggestions, or additions that you would like to contri
 * [Service Design Principles](#service-design-principles)
 * [API Guidelines](#api-guidelines)
   * [General](#general)
-
+  * [Meta Information](#meta-information)
+  * [Security. (TODO)](#security.-(todo))
+  * [Compatibility](#compatibility)
+  * [Deprecation](#deprecation)
+  * [JSON Guidelines](#json-guidelines)
+  * [API Naming](#api-naming)
+  * [Resources](#resources)
+  * [HTTP](#http)
+  * [Performance](#performance)
+  * [Pagination](#pagination)
+  * [Hypermedia](#hypermedia)
+  * [Data formats](#data-formats)
+  * [Common Data Types](#common-data-types)
+  * [Common Headers](#common-headers)
+  * [API Operations](#api-operations)
 
 ## Service Design Principles
 
