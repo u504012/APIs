@@ -216,6 +216,8 @@ Each API should be identified by an explicit, owner assigned, globally unique, a
 ### Security
 We should at least be protected against the “<a href="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 Most Critical Web Application Security Risks</a>”, …more is always better.
 
+    Extra info: <a href="https://www.owasp.org/index.php/REST_Security_Cheat_Sheet">REST Security Cheat Sheet</a>
+
 ### Compatibility
 #### MUST: Do Not Break Backward Compatibility
 Change APIs, but keep all consumers running. Consumers usually have independent release lifecycles, focus on stability, and avoid changes that do not provide additional value. APIs are contracts between service providers and service consumers that cannot be broken via unilateral decisions.
