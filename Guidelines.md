@@ -214,9 +214,8 @@ Note: Exactly one audience per API specification is allowed. For this reason a s
 Each API should be identified by an explicit, owner assigned, globally unique, and immutable API identifier. APIs evolve and every API aspect may change, except the API identifier. Based on the API identifier, we can track the API life cycle and manage the history and evolution of an API as a sequence of API specifications. 
 
 ### Security
-We should at least be protected against the “<a href="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 Most Critical Web Application Security Risks</a>”, …more is always better.
-
-    Extra info: <a href="https://www.owasp.org/index.php/REST_Security_Cheat_Sheet">REST Security Cheat Sheet</a>
+We should at least be protected against the “<a href="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 Most Critical Web Application Security Risks</a>”, …more is always better. 
+Extra info: <a href="https://www.owasp.org/index.php/REST_Security_Cheat_Sheet">REST Security Cheat Sheet</a>
 
 ### Compatibility
 #### MUST: Do Not Break Backward Compatibility
