@@ -15,6 +15,15 @@ If you have any updates, suggestions, or additions that you would like to contri
 ## Table of content
 
 * [Service Design Principles](#service-design-principles)
+  * [Loose coupling](#loose-coupling)
+  * [Size](#size)
+  * [Encapsulation](#encapsulation)
+  * [Stability](#stability)
+  * [Re-Usability](#re-usability)
+  * [Contract based](#contract-based)
+  * [Consistency](#consistency)
+  * [Ease of Use](#ease-of-use)
+  * [Externalizable](#externalizable)
 * [API Guidelines](#api-guidelines)
   * [General](#general)
   * [Meta Information](#meta-information)
